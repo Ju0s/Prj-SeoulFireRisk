@@ -45,8 +45,8 @@
 ![20240328_112029](https://github.com/j2nhyeok/Semi-project/assets/103464891/daadf848-4468-4307-804f-20dde06e1cd4)
 
 
-# PPT 자료
-# 데모페이지 시현 영상
+# 발표 자료
+# 데모페이지 시연 영상
 
 <details><summary> Django(김영기)
 </summary>
