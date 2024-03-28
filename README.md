@@ -1,23 +1,38 @@
 # 개요
 ![20240328_100114](https://github.com/j2nhyeok/team_mini_project/assets/103464891/5a778afe-fd76-4ae1-82c9-4c970563add7)
-### 분석 기간
+### 분석 기간  </br>
 2024-03-11 ~ 2024-03-28 (17일)
 ### 분석 배경 및 목적
+현재 서울은 대한민국에서 가장 인구가 많은 도시이자 수도로, 시민 안전에 큰 관심을 가지고 있다. 그러나 인구밀도가 높아 한 번의 화재 사고로 인한 피해가 막심하다. 특히 화재로 인한 피해는 시간이 매우 중요한 골든타임에 달려 있다. 이를 위해 매년 소방차 통행로 환경을 개선하기 위한 예산이 투입되고 있지만, 여전히 출동 장애요인이 존재한다. 서울은 소방차 진입이 어려운 지역으로 알려져 있으며, 이러한 지역에는 비상소화장치조차 설치되지 않은 곳이 많다. 이 문제를 해결하기 위해 추가적인 비상소화장치함 설치 장소를 제안하여 화재로 인한 피해를 최소화하고자 한다.
+
 ### 해결과제 
-### 분석 시 고려사항
+<center>
+<img src="https://github.com/j2nhyeok/Semi-project/assets/103464891/145e46e9-b8b7-4d95-976a-e4be9867a601" width="400" height="150"/></br>
+</center></br>
+서울시의 '골든타임 내 조기진압이 어려운 한계점'을 해결하기 위해, '비상소화장치'의 설치 위치를 제안하는 프로젝트를 진행한다. 이를 위해 서울시 내 주택화재 취약 지역을 분석하여 취약 지역을 선정하고, 해당 지역구에서 비상소화장치의 효용도가 높은 지역을 도출하여 설치를 제안한다.
+
 ### 기대효과 및 한계점
-### 결과 -> 청장님한테 답장오면 넣는 곳.
+```
+- 기존의 ‘화재취약지 선정기준’과 다른, 새로운 시각인 ‘주택지역중심’ 이라는 또 하나의 선정기준을 제공.
+- 서울시 내 소방서/안전센터와 비상소화장치 위치에 대한 정보를 한 눈에 볼 수 있는 대시보드를 제작하여 소방시설 파악 수월.
+- 프로젝트에 활용된 선정 기준과 분석 방식을 사용해 타 지역의 화재취약지에 대한 분석과 선정이 가능.
+
+- 기술적 이용 간과: 소방예산, 소방시설 설치 및 관리에 들어가는 비용 등 재정에 대한 요소 고려 필요, 실제 비상소화장치 근처 거주민들은 공간의 차지로 불편함을 호소
+- 데이터 품질 한계: 지역구 내의 동 별 데이터로 세분화된 범위의 데이터가 없어, 지역구 전체 내 적절한 위치를 직접 지도를 찾아가며 시간이 소요됨 
+- 데이터 수집 한계: 더 다양한 데이터(시간에 따른 건물 내 거주 인원, 유동인구, 건물당 소방서 및 안전센터와의 거리 등)들을 취약지 선정과 입지 제안에 활용한다면 새로운 고려요소가 도입되어 현재보다 다양한 선정기준이 생성됨
+```
+
+### 결과
 
 # 팀원 소개
+<span style="color:#808080">자세한 역할은 PPT 발표 자료에서 확인하실 수 있습니다. </span>
+
 🙋‍♀️[정주영(팀장)](https://github.com/Ju0s),
 🙋‍♀️[김수현](https://github.com/suhyeon0325) 
 🙋‍♀️[김영기](https://github.com/Y0un9Ki) 
 🙋‍♀️[송인동](https://github.com/indongspace) 
 🙋‍♀️[정소영](https://github.com/Jsoyoung) 
 🙋‍♀️[최진혁](https://github.com/j2nhyeok)
-# WBS
-![234](https://github.com/j2nhyeok/Semi-project/assets/103464891/846c8e6e-5030-4f7b-ab8c-3d1d9a818500)
-
 
 
 # Tool
@@ -39,144 +54,9 @@
 *Write here!*
 </details>
 
-<details><summary> Streamlit(김수현
+<details><summary> Streamlit(김수현)
 </summary>
 
 *Write here!*
 </details>
-
-
-
-
-
-
-## 🙌 안녕하세요. EASYME.md를 만든 원아입니다!
-![easyme](/assets/readme/cartoon.png)   
-
-## ❓ EASYME.md가 뭐예요?   
-- **EASYME.md**는 **<u>개발자가 README.md를 좀 더 쉽게 작성할 수 있도록</u>** 하기 위해 만들었어요.   
-- 블로그에서 글을 쓰는 것처럼 쉽게 글을 작성하고 스타일을 적용하면 오른쪽(👉)에 미리보기로 확인하실 수 있어요.   
-- 스타일을 적용하면 마크다운 문법 및 md 파일에서 인식할 수 있는 소스코드가 자동으로 적용돼요.   
-- 커서 위치, 드래그한 영역 등에 따라 스타일을 적용할 수 있으니 자유롭게 사용해보세요!
-- 복사하기를 통해 본문 내용을 복사하고 여러분의 README에 적용해보세요.   
-
-## 🙋‍♀️ 좀 더 구체적으로 가르쳐주세요!   
-1. 왼쪽 공간에서 블로그에 글을 쓰는 것처럼 README를 작성해주세요!   
-2. 👆 위에 툴바창에 보이는 다양한 스타일을 적용해보세요!   
-3. 다 작성하셨나요? 예쁘게 잘 나왔는지 오른쪽 미리보기 화면에서 확인해보세요.   
-4. 오른쪽에 작성한 글 전체를 복사하세요!   
-(저장을 원할 경우 `Ctrl + S` / `Command + S` 또는 툴바창 제일 오른쪽에 `공유하기 아이콘`을 클릭해주세요.)   
-5. 이제 여러분의 **README.md** 에 붙여넣으세요!   
-(저장 또는 공유를 할 경우 링크를 다른 사람에게 전달할 수 있어요! 😀)  
-
-## 🛠 기능 엿보기   
-
-1. [❓ EASYME.md가 뭐예요?  ](#-easymemd가-뭐예요)
-2. [🙋‍♀️ 좀 더 구체적으로 가르쳐주세요!](#-좀-더-구체적으로-가르쳐주세요)
-3. [🛠 기능 엿보기](#-기능-엿보기)
-    - [Header](#header)   
-    - [Text Style1](#text-style1)   
-    - [Text Stlye2](#text-style2)   
-    - [List](#list)      
-    - [Link](#link)   
-    - [Code Block](#code-block)   
-    - [Table](#table)   
-   
-## Header
-- # H1 Header   
-- ## H2 Header   
-- ### H3 Header   
-- #### H4 Header   
-- ##### H5 Header   
-- ###### H6 Header   
-
-<br>   
-
-## Text Style1
-- **진하게** (`Ctrl(Command) + B`)   
-- *기울이기* (`Ctrl(Command) + I`)   
-- <s>취소선</s> (`Ctrl(Command) + D`)   
-- <u>밑줄</u> (`Ctrl(Command) + U`)   
-
-<br>   
-   
-## Text Style2
-
->인용문   
-   
-<details><summary>접고 펴는 기능
-</summary>
-
-*Write here!*
-</details>
-
-- EASYME.md를 드래그하고 상단에 `Aa` 아이콘을 누르면? 👉 Easyme.md   
-- EASYME.md를 드래그하고 상단에 `A` 아이콘을 누르면? 👉 EASYME.MD   
-- EASYME.md를 드래그하고 상단에 `a` 아이콘을 누르면? 👉 easyme.md   
-   
-<br>   
-   
-## List   
-### Table of contents
-1. [title1](#write-title-here!)   
-2. [title2](#only-lowercase)   
-3. [title3](#use"-"instead-of-spacing-words)   
-4. [title4](#example)   
-    - [❓ EASYME.md가 뭐예요?](#-easymemd가-뭐예요)   
-    - [🛠 기능 엿보기](#-기능-엿보기)
-   
-### Unordered list   
-- unordered list1   
-- unordered list2   
-- unordered list3   
-- unordered list4   
-   
-### Ordered list   
-1. ordered list1   
-2. ordered list2   
-3. ordered list3   
-4. ordered list4   
-   
-<br>   
-   
-## Link   
-### General link
-- [🚗 Visit EASYME.md's Repo](https://github.com/EASYME-md/client)   
-- [🙋‍♂️ Visit ONE:A's Github](https://github.com/onealog)
-
-### Image link
-![onealog](/assets/readme/easyme.png)   
-   
-<br>   
-   
-## Code Block   
-### Code inline
-- `console.log('Hello EASYME.md!');`   
-   
-### Code block
-```js
-function makeDeveloper(name, language) {
-  if (name === 'ONE:A' && language === 'JavaScript') {
-    return 'perfect!';
-  }
-
-  return false;
-}
-
-makeDeveloper('ONE:A', 'JavaScript');
-```
-
-<br>   
-   
-## Table   
-
-
-| title1 | title2 | title3 |
-| --- | --- | --- |
-| 1 | 2 | 3 |
-| 4 | 5 | 6 |
-| 7 | 8 | 9 |
-
-
-<br>   
 
