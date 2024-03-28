@@ -40,7 +40,25 @@
 - Programming Language : Python
 - Editor : Google colab, Jupyter Notebook
 ### 주요 라이브러리
-- Pandas, matplotlib, plotly, geopandas, folium
+
+```
+geopandas==0.14.3
+plotly==5.20.0
+streamlit==1.32.2
+streamlit-folium==0.18.0
+folium==0.16.0
+jupyterlab==4.1.4
+matplotlib==3.8.3
+numpy==1.26.4
+openpyxl==3.1.2
+pandas==2.2.1
+pyproj==3.6.1
+scikit-learn==1.4.1.post1
+scipy==1.12.0
+seaborn==0.13.2
+shapely==2.0.3
+```
+
 # 현장 답사
 ![20240328_112029](https://github.com/j2nhyeok/Semi-project/assets/103464891/daadf848-4468-4307-804f-20dde06e1cd4)
 
