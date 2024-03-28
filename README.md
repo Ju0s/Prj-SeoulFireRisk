@@ -1,2 +1,12 @@
-# Semi-project
-team Semi-project
+# 프로젝트 소개
+![20240328_100114](https://github.com/j2nhyeok/team_mini_project/assets/103464891/5a778afe-fd76-4ae1-82c9-4c970563add7)
+### 분석 기간
+2024-03-11 ~ 2024-03-28 (17일 간)
+### 분석 배경
+
+### 분석 목적
+### 해결 과제
+### 분석 시 고려사항
+### 결과
+
+# Tool
