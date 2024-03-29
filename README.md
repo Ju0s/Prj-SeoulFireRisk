@@ -68,13 +68,12 @@ shapely==2.0.3
 
 <details><summary> Django(김영기)
 </summary>
-
-*Write here!*
+[Django 대시보드 데모 영상: [유튜브에서 보기]](https://youtu.be/UrKuKw7LCUs?si=E40njPHtkqsuWSG8)
 </details>
 
 <details><summary> Streamlit(김수현)
 </summary>
+[Streamlit 대시보드 데모 영상: [유튜브에서 보기]](https://youtu.be/Y15JNbI---8?si=9U2TSQVvLB96yJF6)   
 
-*Write here!*
 </details>
 
