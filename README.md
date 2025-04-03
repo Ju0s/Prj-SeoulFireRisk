@@ -64,7 +64,7 @@ shapely==2.0.3
 
 
 # 발표 자료
-[발표자료 바로가기](https://github.com/j2nhyeok/Semi-project/blob/main/%5B%EB%8D%B0%EC%97%9434%5D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_2%EC%A1%B0_%ED%98%84%EB%8C%80%EC%A4%91%EA%B3%B5%EC%97%85%ED%8C%80.pdf) 
+[발표자료 바로가기](https://github.com/Ju0s/Prj-SeoulFireRisk/blob/main/%5B%EB%8D%B0%EC%97%9434%5D%202%EC%A1%B0_%ED%98%84%EB%8C%80%EC%A4%91%EA%B3%B5%EC%97%85%ED%8C%80_%EC%B5%9C%EC%A2%85.pdf) 
 # 데모페이지 시연 영상
 
 <details><summary> Django(김영기)
